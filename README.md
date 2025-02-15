@@ -1,4 +1,3 @@
-# recruit-vicharak
 # SIMPLELANG Compiler
 
 ## Overview

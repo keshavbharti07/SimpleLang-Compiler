@@ -85,9 +85,6 @@ The compiler consists of the following components:
 - **Parser**: Checks syntax correctness.
 - **Code Generator**: Produces executable output.
 
-## Contributing
-
-If you’d like to improve SIMPLELANG, feel free to fork the repository and submit pull requests.
 
 
 

@@ -25,7 +25,7 @@ g++ -o compiler main.cpp lexer.cpp parser.cpp
 Once compiled, execute the compiler with:
 
 ```bash
-output.exe
+./output.exe
 ```
 
 ## Running the Output

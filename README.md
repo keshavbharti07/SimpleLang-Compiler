@@ -86,5 +86,7 @@ The compiler consists of the following components:
 - **Code Generator**: Produces executable output.
 
 
+##Workflow
+![WhatsApp Image 2025-03-07 at 12 51 01_b7379ced](https://github.com/user-attachments/assets/5008cffd-74f9-4e9c-856e-8fa9606c5c12)
 
 
